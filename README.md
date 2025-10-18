@@ -2,9 +2,10 @@ This project is an attempt to simulate real-time insurance customer and claim da
 The resultant data can be used for business reporting and/or analytics as needed.
 
 Stack:
-MongoDB → NoSQL OLTP database
-Airbyte → ETL/ELT connector (Ingest data to warehouse)
-Snowflake → Cloud Data Warehouse
-DBT → SQL-based data transformations
-Python → Data simulation and helpers
+1. MongoDB → NoSQL OLTP database
+2. Airbyte → ETL/ELT connector (Ingest data to warehouse)
+3. Snowflake → Cloud Data Warehouse
+4. DBT → SQL-based data transformations
+5. Python → Data simulation and helpers
+
 
