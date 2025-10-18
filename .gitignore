@@ -1,0 +1,9 @@
+dbt_ins/analyses/
+dbt_ins/macros/
+dbt_ins/seeds/
+dbt_ins/snapshots/
+dbt_ins/tests/
+
+.env
+.vscode/
+logs/
